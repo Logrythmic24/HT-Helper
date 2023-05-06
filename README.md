@@ -16,7 +16,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Logrythmic24/HT-Helper/total) ![Issues](https://img.shields.io/github/issues/Logrythmic24/HT-Helper) 
+![Downloads](https://img.shields.io/github/downloads/Logrythmic24/HT-Helper/total) ![Contributors](https://img.shields.io/github/contributors/Logrythmic24/HT-Helper?color=dark-green) ![Issues](https://img.shields.io/github/issues/Logrythmic24/HT-Helper) ![License](https://img.shields.io/github/license/Logrythmic24/HT-Helper) 
 
 
 ## Getting Started
