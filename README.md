@@ -59,7 +59,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the GNU 3.0 License. See [LICENSE](https://github.com/Logrythmic24/HT-Helper/blob/main/LICENSE.md) for more information.
+Distributed under the GPL 3.0 License. See [LICENSE](https://github.com/Logrythmic24/HT-Helper/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
