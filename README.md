@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Logrythmic24/HT-Helper">
-    <img src="images/logo.png" alt="Logo" width="1000" height="600">
+    <img src="images/logo.png" alt="Logo" width="1000" height="200">
   </a>
 
   <h3 align="center">Hatenatools Helper (HT Helper)</h3>
