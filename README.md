@@ -4,7 +4,7 @@
     <img src="images/logo.png" alt="Logo" width="1000" height="250">
   </a>
 
-  <h3 align="center">Hatenatools Helper (HT Helper)</h3>
+  <h1 align="center">Hatenatools Helper (HT Helper)</h1>
 
   <p align="center">
     Create commands for Hatenatools on the fly with ease!
