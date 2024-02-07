@@ -35,7 +35,9 @@ Python 3.X
 
 HT Helper is used to easily create copy paste commands for use with Hatenatools. HT Helper *WILL NOT* process files for you!!
 
+## Notes
 
+If im being very honest this isnt very good code but it gets the job done! There is a rewrite in the pipeline but I have other project to get through first...
 
 ## Roadmap
 
